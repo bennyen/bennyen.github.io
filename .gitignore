@@ -1,6 +1,6 @@
 # Jekyll ignores
 .sass-cache/
-_site
+_site/
 vendor/
 .jekyll-metadata
 .jekyll-cache
