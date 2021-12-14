@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          Benny N.
+description:    "It is a Benny Ben world."
+url:            https://bennyen.github.io
 
 # Author
 author:
-  name:         Inela Avdic Hukic
+  name:         Benny Ng
   email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  url:          https://bennyen.github.io
 
 # Build settings
 markdown:       kramdown
@@ -21,7 +21,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
@@ -34,7 +34,5 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  github: https://github.com/bennyen
+  linkedin: https://www.linkedin.com/in/benny-ng-65963a5a/
