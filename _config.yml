@@ -24,8 +24,13 @@ plugins:
   - jemoji
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+permalink: pretty
+paginate: 5
+
+collections:
+  redirects:
+    output: true
+    permalink: /link/:name
 
 # Related posts settings
 related_posts_section:
